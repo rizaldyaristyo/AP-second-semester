@@ -1,3 +1,7 @@
+This Project was lost and found by [ocin-effendy](https://github.com/ocin-effendy)<br>
+via his repo; [https://github.com/ocin-effendy/mata-kuliah](https://github.com/ocin-effendy/mata-kuliah/tree/master/Tubes/Black%20Jack)<br>
+You definitely should visit and check his other works!
+
 ##### AP-second-semester github repo
 # Notice!
 ##### To the public:
